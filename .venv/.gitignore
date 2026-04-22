@@ -2,3 +2,7 @@
 load_to_sql.py
 upload_to_s3.py
 
+*.csv
+.env
+load_to_sql.py
+upload_to_s3.py
